@@ -8,8 +8,5 @@ Ich nehme mir vor, von Zeit zu Zeit hier vorbeizuschauen und gelungene Elemente 
 ## Lesen
 Macht ruhig - dazu steht das hier.
 
-### PDF
-Kann ich das einfach so machen oder gibt das dann Ärger?
-
 ## Selbst weiterverwenden
 Solange ihr kein Geld dafür verlangt ...
