@@ -1,6 +1,7 @@
-#Skraane
+# Skraane
 Zur Aussprache bitte die Datei "conventions.md" beachten.
-##Beschreibung
+
+## Beschreibung
 Eine große, annähernd kreisförmige Handelsstadt nahe der Bleimeerküste mit einem Fluss von Nordwesten nach Osten hindurch, die sich rund um einen hoch aufragenden, tannenzapfenförmigen Turm entwickelt hat. 
 Von hier aus führen Straßen in ein weiter nördlich gelegenes Sandsteingebirge, sowie nach Nordosten in Richtung Küste.
 In der Nähe des Stadtzentrums gibt es einen großen Marktplatz – eigentlich einen Basar – auf dem rund um die Uhr geschäftiges Treiben herrscht. 
@@ -14,10 +15,10 @@ Die reichen Stadtviertel liegen im Schatten des Turmes entlang der Nordhälfte s
 Die ärmeren Viertel liegen vor allem südlich des Turms, entlang des Flusses in und um den Hafen herum, sowie an der Stadtmauer. 
 Die wirklich armen Viertel liegen außerhalb der Stadtmauer.
 
-_\[Bald deprecated\]_ Das Rathaus ist zwar die konstitutionierende Einrichtung der Stadt, hat aber keine echte Funktion, da es einerseits vom Turm gelenkt wird (ohne dass die Ratsherren das mitbekommen) und andererseits über keine Durchsetzungsfähigkeit, in Form von zum Beispiel einer Stadtwache verfügt. 
+_\[Soon deprecated\]_ Das Rathaus ist zwar die konstitutionierende Einrichtung der Stadt, hat aber keine echte Funktion, da es einerseits vom Turm gelenkt wird (ohne dass die Ratsherren das mitbekommen) und andererseits über keine Durchsetzungsfähigkeit, in Form von zum Beispiel einer Stadtwache verfügt. 
 Dies liegt primär daran, dass die derartigen Einrichtungen der Hafen- und Handelsaufsicht unterstehen.
 
-##Verkehr
+## Verkehr
 Die Stadt hat fünf Straßentore in ihrer Mauer, von denen eines nach Süden zeigt, drei in diverse Richtungen zwischen Osten und Norden, und eines ungefähr nach West-Nordwest (etwas mehr nach Norden).
 Außerdem führen zwei Bahnstrecken aus südlicher Richtung in die Stadt hinein (sie vereinigen sich kurz vor der Stadtmauer), sowie eine in nordwestliche Richtung hinaus. 
 Von den beiden aus Süden kommenden Strecken führt die eine nach Oosend und die andere nach Westen (Sulfur).
@@ -35,7 +36,7 @@ Entsprechend erfolgt der meiste Warenverkehr zu Fuß und per Schiff.
 Im Warenverkehr zu Fuß hat sich insbesondere die Fassträgergilde einen berüchtigten Namen gemacht. 
 Sie duldet keine Konkurrenz.
 
-##Bevölkerung
+## Bevölkerung
 Der Großteil der Einwohner von Skraane lebt von Tätigkeiten in mehr oder weniger direktem Zusammenhang mit dem Hafen, einige haben es auch auf mehr oder minder legalem Wege zu erheblichem Vermögen gebracht. 
 Ein weiterer Großteil lebt vom Handel, entweder auf dem Markt oder auf der Straße und dem Meer. 
 Zu diesen beiden Gruppen zählen auch die Beamten der Hafen- und Handelsaufsicht. 
@@ -49,7 +50,8 @@ Tatsächlich sind Menschen eher eine marginalisierte ethnische Randgruppe.
 Viele Skraaner sind nicht in oder vor der Stadt geboren worden. 
 Nebst solchen Wesen, die man vom Äußeren her als Menschen oder sehr ähnlich einsortieren würde (was aber nicht auf alle zutrifft), gibt es auch einige, bei denen es offensichtlicher ist, zum Beispiel wegen Hörnern auf der Stirn. 
 Wie auch an vielen anderen Orten im größeren Umkreis, ist Skraane ursprünglich primär von Großhornfaunen bewohnt, die zwar immer noch die Mehrheit stellen, allerdings bei weitem nicht mehr so dominant, wie noch vor zwei Generationen.
-##Klima
+
+## Klima
 Wie auch im südlich liegenden Küstenabschnitt sehr trocken, mit langen warmen Sommern. 
 Die Winter sind genauso lang, sehr schneereich, jedoch nicht sonderlich kalt. Temperaturen deutlich unter -10 °C sind selten.
 Frühling und Herbst sind ausgesprochen kurz. 
@@ -58,7 +60,7 @@ Es weht für gewöhnlich ein Wind nach Südosten bis Südwesten von den Bergen i
 
 Der Fluss bleibt in der Regel bis weit in den Winter hinein eisfrei.
 
-##Die ~~Moskauer~~ Putengasse
+## Die ~~Moskauer~~ Putengasse
 Ursprünglich einem sehr seltsamen Alptraum entsprungen, wurde sie an einen Ort verlegt, an den sie besser passt. 
 Die Putengasse ist eine längere Sackgasse im Nordwesten der Stadt, die an der Stadtmauer Skraanes endet. 
 Sie wird von schiefen, zweistöckigen Häusern gesäumt. 
@@ -84,7 +86,7 @@ Das Kommando ist ein fast schon zu einfaches: Panik, verbunden mit dem Zauber au
 Der Tod in dieser Gasse ist jedoch nicht gewiss – solange man plant, die dort gefertigten Waren zu kaufen oder gleich vor Ort zu genießen. 
 Das ist ein Luxus, den sich manch ein ruchloses Mitglied der Skraaner Oberschicht durchaus gerne leistet, wenn auch nicht persönlich, denn das wäre aus anderen Gründen gefährlich.
 
-##\[Deprecated\] Der Turm
+## \[Deprecated\] Der Turm
 Im Zentrum der Stadt befindet sich ein tannenzapfenförmiger Turm, der abhängig von Stand der Sonne, Jahreszeit und Wetter nach irgendwas zwischen Eisblau mit violetten Nuancen und golden aussieht.
 Die einzige Zufahrt, die sich südlich des Turms befindet, wird nachts sichtbar und tagsüber unsichtbar bewacht. 
 Die sichtbaren Wachen stehen niemals hinter einer bestimmten unsichtbaren Linie 5 Meter in der Einfahrt. 
@@ -94,5 +96,5 @@ Auf dem Gelände um den Turm herum ist niemals eine Person oder sonst irgendeine
 Hintergrund ist, dass es sich bei dem, was man sehen kann, um eine Art Illusion handelt – der gesamte Bereich um den Turm befindet sich nicht auf normale Art und Weise in der Welt. 
 Wer das Gelände des Turms nicht durch ein entsprechendes Portal oder als entsprechend befähigtes Wesen betritt, wird vom gleichzeitigen Dimensions- und Ebenenwechsel kurzerhand zerfetzt.
 
-##Trivia
+## Trivia
 „Skråne“ heißt anscheinend auf Dänisch so viel wie „Schräg“. Irgendwie lustig so im Nachhinein.
