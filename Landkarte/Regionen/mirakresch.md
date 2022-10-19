@@ -21,7 +21,7 @@ Die Fjordlandschaft im Norden erklärt sich einerseits durch die gut gespeisten 
 
 Das Gebirge setzt sich vor allem aus Granit und Schiefer zusammen, wobei einige reichhaltige Eisenadern bekannt sind. 
 Weiters finden sich unter dem Gebirge auch einzelne große Edelmetalladern, die gehäuft um die Schwefelkristallvorkommen unter der Zwergenstadt Sulfur auftreten. 
-Zwar bekannt, aber wegen schwieriger Verarbeitung der gewonnenen Erze nur in geringem Maße ausgebeutet sind mächtige Flöze von stark nickelhaltigem Eisenoxid im südlicheren Teil des Gebirges. 
+Zwar bekannt, aber wegen schwieriger Verarbeitung der gewonnenen Erze nur in geringem Maße ausgebeutet, sind mächtige Flöze von stark nickelhaltigem Eisenoxid im südlicheren Teil des Gebirges. 
 Nicht bekannt hingegen ist die Tatsache, dass sich im nördlichen Teil des Gebirges an diversen Stellen seltene Metalle in interessanten Mengen bei relativ niedrigem Aufwand abbauen lassen, unter anderem auch Niob.
 
 ## Infrastruktur & Besiedelung
