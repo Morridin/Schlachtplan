@@ -31,7 +31,7 @@ Im Laufe der Gebirgsdurchquerung wandert die Bahnstrecke von Westen nach Osten e
 Es gibt weiterhin, sofern man weiß, wo sie denn zu suchen sind, ein paar wenige verschneite Burgen und Schlösser ganz hoch oben. 
 Dazu gehört unter anderem Burg Eisenstein.
 
-## Nördliche AuslÃ¤ufer
+## Nördliche Ausläufer
 In Richtung Norden erstreckt sich das Mirakresch-Gebirge noch weit über den Punkt hinaus, an dem es sich mit dem Sandsteingebirge aus dem Osten vereinigt  -  also weit über die nördlichen Ausläufer des Einhornwaldes hinaus. 
 
 Allerdings verlieren die Berge zusehends an Höhe, was auch damit zusammenhängt, dass sie sich von Süden her einem Nebenmeer des Bleimeeres annähern.
