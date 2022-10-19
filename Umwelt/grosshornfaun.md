@@ -13,3 +13,10 @@ Sie stellen die breite Mehrheit der Bevölkerung des Gebietes westlich des groß
 
 Derweil Faune von Natur aus Vegetarier sind, vertragen sie jedoch im Allgemeinen auch den Konsum von Fleisch. 
 Von sich aus Fleisch essende Faune sind jedoch eine Seltenheit, die im Regelfall von der restlichen Gesellschaft als absonderlich ausgegrenzt wird.
+
+## Nördlicher Großhornfaun
+Diese Unterart der Großhornfaune ist in ihrem Erscheinungsbild nochmals deutlich massiver als die normalen Großhornfaune. 
+Sie sind im Mittel zehn bis zwanzig Zentimeter höher, und insbesondere im Schulterbereich deutlich breiter.
+
+Sie weisen auch noch einige weitere Tendenzen und Merkmale auf, die sonst eher bei Minotauren zu finden sind, wie beispielsweise diejenige, Probleme mit Artgenossen eher dadurch zu klären, den Artgenossen zu entfernen, statt sich ernsthaft um einen, beide Seiten zufriedenstellenden, Kompromiss zu bemühen.
+Dazu gehört auch der im Vergleich zu anderen Großhornfaunen stärker ausgeprägte (Bart-) Haarwuchs, sowie ein deutlich höheres Interesse an alkoholischen Getränken.
