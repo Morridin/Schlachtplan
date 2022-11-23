@@ -13,7 +13,9 @@ Das Verzeichnis "Umwelt" beinhaltet alles von Pflanzen über Tiere zu sonstigen 
 Zu guter Letzt gibt es noch das Verzeichnis "Eregnisse", in dem sich in ihren jeweiligen Verzeichnissen allerlei Dinge sammeln werden, die derzeit unter der Überschrift "Handlungsoptionen" stehen.
 
 ## Beitragen neuer Inhalte
-Bitte erstellt euch einen neuen Branch (Verzweigung), wenn ihr selbst etwas beitragen möchtet und ladet eure Version dorthin hoch.
+Bitte geht so vor, wie man das normalerweise mit GitHub-Repos so macht: Gabeln (Forken), einen neuen, eigenen Zweig (branch) erstellen, dort die neuen Inhalte hinzufügen und schließlich per Zieh-Anfrage (Pull-Request) die Beiträge zurück hierher ausliefern.
+Man merkt sicherlich, dass diese Übersetzung eher der Erheiterung, denn der Sache dient.
+
 Ich nehme mir vor, von Zeit zu Zeit hier vorbeizuschauen und gelungene Elemente in den Hauptthread zu mergen (verschmelzen), gebe aber bewusst keine Garantie, dass dies passieren wird.
 
 ## Lesen
