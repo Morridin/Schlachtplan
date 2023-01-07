@@ -8,6 +8,7 @@ Die große Tafel über ihr sagte Gleis 8, und noch eine gute halbe Stunde Zeit, 
 Perfekt!
 
 Sie hätte statt der Regionalbahn und ihren endlosen Umstiegen bis Venedig zwar auch den deutlich schnelleren ECE bis Mailand nehmen können – der ihr nebenbei noch zwei Stunden mehr Schlaf beschert hätte – aber dieser hätte einer Reservierung bedurft und das war dann doch zu viel des Aufwands. 
+Außerdem konnte man sich dann nicht mehr einfach unterwegs umentscheiden und woanders hinfahren.
 
 Am Bahnsteig angekommen, wurde erst der Rucksack abgesetzt und dann der noch jungfräuliche Interrail-Pass aus seinem Versteck gezogen, um eine erste Eintragung zu machen.
 
@@ -462,3 +463,117 @@ Als sich Lena umdrehte, erkannte sie, was Koslaw meinte.
 Sie standen ganz offensichtlich vor einem Gasthaus.
 
 „Dann mal rein in die gute Stube“, lud Koslaw Lena ein, durch die von ihm aufgehaltene Tür einzutreten.
+
+Lena fand sich in einem dunklen Gang mit nackten dunklen Steinwänden wieder, der von Kerzen in ein schummriges Licht getaucht wurde. 
+Rauch von einem Holzfeuer in einem Kamin außerhalb ihres Blickfeldes lag in der Luft.
+Es war warm und trocken.
+
+Sie folgte dem Gang wenige Schritte, bis er sich in einen Schankraum öffnete. 
+Dabei hinterließ sie eine nasse Spur aus Regenwasser, das von ihrer Jacke tropfte.
+
+Entlang der hinteren Wand befand sich eine Theke, hinter der ein dicklicher Mann über dessen Bauch sich eine schutzig-weiße Schürze spannte, mit einem Lappen Humpen auswischte.
+Der Wirt wirkte dabei ein wenig so, als täte er dies nur, um eine Beschäftigung vorzutäuschen.
+Am rechten Ende der Theke lehnte ein ergrauter Mann an einem Holzbalken, an seiner linken Hand hing ein leerer Humpen.
+
+Über den Raum verteilt standen einige rohe, dunkle Holztische mit dazu passenden Bänken auf je zwei Seiten. 
+Die einzigen beiden Tische, die besetzt waren, waren die direkt am Kamin.
+Am einen Tisch waren zwei Wesen in ein Kartenspiel vertieft.
+Das schwarzfellige Ungetüm am anderen Tisch hatte dem Rest des Raums den Rücken zugewandt und starrte in den Kamin.
+
+Eine junge Frau ging unauffällig durch den Raum und füllte leere Krüge nach.
+Als sie Lena sah, zeigte sie nur mit einer kleinen Bewegung auf den Wirt und fuhr mit ihrer Tätigkeit fort.
+
+Lena schritt also durch den Schankraum, um sich an den Wirt zu wenden.
+Wenn er sie bemerkt hatte, ließ er es sich nicht anmerken.
+Also räusperte sie sich.
+
+Keine Reaktion.
+Sie räusperte sich erneut.
+
+Jetzt meldete sich der Mann am anderen Ende der Theke undeutlich zu Wort und Lena konnte seine Alkoholfahne bis zu ihr riechen: "Wenn du was von ihm willst, musst du ihn schon direkt ansprechen. He Wirt, noch ein Bier!"
+
+"Du hattest schon zu viel - geh schlafen!", brummte dieser, ohne von seinem Humpen aufzublicken.
+
+"Schon gut, ich geh ja. Aber du hast da noch einen anderen Gast.", maulte der Mann in der Ecke und schlurfte langsam und mit unsicherem Gang von dannen.
+
+"Mhm ... was willst du?", brummte der Wirt, ohne den Blick zu heben.
+
+"Für den Anfang einen Ort, an dem ich meinen Rucksack abstellen kann. Und für heute Abend ein warmes und trockenes Bett zum Übernachten. Und jetzt vielleicht etwas zu essen.", antwortete Lena knapp.
+
+Beim Klang ihrer Stimme blickte der Wirt doch auf.
+
+"Sicher. Bist du auf dem Hinweg oder hast du Begleitung?", fragte der Wirt.
+
+"Das geht dich nichts an. Aber ... warte."
+
+Lena stellte fest, dass Koslaw nicht mehr bei ihr war.
+
+"Was ist?", fragte der Wirt.
+
+"Da war gerade noch so ein Faun bei mir.", antworte Lena.
+
+"Vorsicht mit diesen Ziegen. Die tun so, als ob sie nett wären - aber passt du einmal nicht auf, schneiden sie dir die Kehle auf.", kommentierte das der Wirt abschätzig und fügte hinzu: "Das heißt aber, dass du nicht von _der Schule_ bist. Interessant. Hast du deinen Geldbeutel noch?"
+
+"Welche Schule?", fragte Lena.
+
+"Ach egal. Nicht so wichtig.", wich der Wirt aus, "Wie steht es um dein Geld?"
+
+Lena zog ihre Kreditkarte aus ihrem Portemonnaie. 
+
+"Ich weiß zwar nicht, ob ihr mit dem Ding was anfangen könnt, aber ...", begann sie.
+
+"Wir - ja. Aber ansonsten brauchst du schon was anderes.", unterbrach sie der Wirt.
+
+"Ok. Kann ich das bei euch bekommen? Also verwendbares Geld?", erkundigte sich Lena.
+
+"Sicher. Für eine kleine 'Aufwandsentschädigung', versteht sich.", lächelte sie der Wirt gefährlich an.
+
+"Wie viel?" - Lena hatte keine Lust, mit dem Wirt zu feilschen. Es würde ihr ohnehin nichts bringen.
+
+"Wie viel brauchst du?", fragte der Wirt.
+
+"Genug für, sagen wir, einen Monat."
+
+"Hmm ... das ist nicht wenig.", überlegte der Wirt noch, als die Frau, die vorhin noch Bier aufgefüllt hatte, ihr wortlos ein Kartenlesegerät hinhielt, das einen Betrag von 1000 Euro anzeigte und ein Blatt Papier daneben legte, auf dem aufgelistet war, wie sich der Betrag zusammensetzte.
+
+"Halt, nicht, ohhhh...", stöhnte der Wirt, erkennend, dass er gerade der Möglichkeit, sich zu bereichern, beraubt worden war.
+
+Lena überflog kurz die Aufstellung, bevor sie ihre Karte an das Lesegerät hielt und ihre PIN eingab. 
+Das las sich soweit schlüssig und von der 'Aufwandsentschädigung' konnte sie auch nichts finden.
+
+Die Frau stellte ihr wortlos mehrere schwere Säckchen auf die Theke, bedachte den Wirt kurz mit einem vernichtenden Blick und verschwand, wohl in Richtung Küche.
+
+"Tja. Da hast du wohl Glück gehabt. Ich zeige dir dein Zimmer.", gab sich der Wirt geschlagen, kam hinter der Theke hervor und ging dann in dieselbe Richtung, wie vor gar nicht so langer Zeit der betrunkene alte Mann.
+
+Ein wenig Flur, einige Treppen und noch ein wenig Flur später standen sie vor einer schweren Holztür.
+Der Wirt nahm einen Schlüssel von seinem beachtlichen Schlüsselbund, schloss auf und überreichte ihr den Schlüssel.
+
+"Wenn du dann soweit bist, komm wieder runter, Karla macht dir dann was zu essen. Und wenn du gehst, will ich den Schlüssel wieder haben! ", ermahnte er Lena und ging wieder nach unten.
+
+Hinter der Tür befand sich gar nicht so kleiner Raum mit einem Doppelbett darin. 
+Über dessen Kopfende war ein Fenster, dass auf den Totenplatz zeigte.
+Aktuell war das Fenster aber verschlossen.
+Bei dem Regen da draußen wahrscheinlich die beste Idee.
+
+Nach rechts führte eine Tür weg. 
+Wie Lena, als sie nachsah, herausfand, befand sich dahinter so etwas, wie ein rudimentäres Badezimmer.
+Es war nicht überragend, aber es war sauber und würde für ihre Zwecke reichen.
+
+Auch wenn in Lenas Zimmer kein Kamin war, so war es dennoch warm darin.
+Lena stellte ihren Rucksack in einer Ecke neben dem Bett auf dem Boden ab, zog ihre immer noch nasse Jacke aus und hängte sie an einen Haken an der Wand nahe der Tür. 
+Die würde sie nachher wieder mit runter nehmen müssen, um sie vor dem Kamin zu trocknen.
+
+Sie wollte gerade anfangen, sich ihr T-Shirt über den Kopf zu ziehen, als ihr auffiel, dass die Tür noch immer offen stand. 
+Also warf sie sie ins Schloss, damit sie sich ungestört umziehen konnte. 
+Ihrem T-Shirt folgten auch die Turnschuhe und die etwas längere kurze Hose.
+Sie kramte ein wenig in ihrem Rucksack herum, bis sie fand, was sie suchte: ein enganliegendes langärmliges T-Shirt, ihre allerliebste Reiseleggings, der dazugehörige nahtlose String, ein Paar trockene Socken und die Wanderschuhe mit ihrem Keilabsatz, bei denen sie sich mittlerweile fragte, warum sie sie nicht gleich angezogen hatte.
+
+An den Leggings war von außen betrachtet alles normal, abgesehen von einigen zusätzlichen Nähten, wo sich Lena eine zusätzliche, weiche Polsterung für Hintern und Oberschenkel ergänzt hatte.
+Davon abgesehen, dass diese Schaumstoffpolster ihre Figur schmeichelnd betonten, waren sie auf längeren Reisen so unglaublich bequem ...
+Und sicherlich eine gute Idee, falls sie noch länger auf den Bänken unten im Schankraum sitzen wollte.
+
+Bevor sie sich ihre Leggings anzog, lief sie kurz rüber in ihr 'Bad' und setzte sich dort auf das, von dem sie vermutete, dass es der Abort war - eine glatt gehobelte Holzplanke mit einem großen Loch darin, das ins Dunkel führte. 
+Neben dem Loch, so dass man sich auf das Loch setzen konnte, lagerte so etwas wie Klopapier.
+Auch wenn es ihr vorher nicht so wirklich aufgefallen war, hatte sich in den letzten Stunden einiges angesammelt und es war höchste Zeit gewesen.
+
+Nachdem sie sich erleichtert und gereinigt hatte und am Waschtisch mit Wasser aus einem darunterstehenden Krug die Hände gewaschen hatte, zog sie sich fertig an und ging wieder nach unten.
