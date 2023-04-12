@@ -64,44 +64,101 @@ Gegenwärtig ist diese _letzte Flotte_ auf dem Weg nach Westen, wo die zweite Ka
 ## Bevölkerung
 
 ## Kultur & Gesellschaft
-Die Kultur ist stark geprägt durch die drei Klassen der Gesellschaft: Den Adel, die Händler und das Militär. 
+Hexatans Gesellschaft und Kultur sind eine komplexe Angelegenheit, die immer seltsamer wird, je tiefer man hinabsteigt. 
+Beides ist stark durch den Feldzug der Drachenkaiserin geprägt, kann jedoch gleichzeitig an vielen Stellen stolz auf Wurzeln zurückblicken, die älter als die Drachen sind, die schon seit Jahrtausenden im Zentrum Hexatans leben.
 
-Dazwischen und wenig beachtet findet sich ein nicht unerheblicher Anteil der Bevölkerung ohne die Möglichkeit der Mitgestaltung wieder: Bauern, Künstler, Handwerker, ...
+Wenngleich Kunst nur eine untergeordnete Rolle in Hexatan spielt, merkt man doch an vielen Stellen Einflüsse bestimmter Art.  
+Da ist das Meer und die ruhmreiche Kaiserliche Flotte, die einen gewissen Einfluss auf die Sprache und Architektur auf dem gesamten Kontinent haben.  
+Weiter ist da das Zentralmassiv in der Mitte des Kontinents und Heim der Drachen. Dessen Bewohner haben einen einem erheblichen Einfluss auf die Kunst und die Ausgestaltung des Glaubens.
 
-Alle drei Klassen verfolgen ein und dasselbe Ziel: Ihre Macht und ihren Einfluss auszubauen und abzusichern gegenüber den anderen Klassen.
-Gleichzeitig geschieht dasselbe jedoch auch innerhalb der Klassen selbst, wobei man sich nicht zu schade ist, auf die Hilfe von Mitgliedern anderer Klassen zurückzugreifen, wenn das den eigenen Zielen gerade dienlich ist.
+Die Kultur Hexatans ist ebenfalls durch die harten Trennungen zwischen den einzelnen Gruppen der Gesellschaft, aber auch von den im Adel und insbesondere im Militär sehr alten und starren Hierarchien geprägt.
 
-Der Kampf um den persönlichen Einfluss wird ohne Rücksicht auf Verluste geführt. 
-Attentate sind so alltäglich, dass sie in einem kleinen Teil der Klassen zum guten Ton im Umgang miteinander zählen.
+Kulturell, aber auch gesellschaftlich stark abweichend lebt die Bevölkerung am Rande des Zentralmassivs, das dort in den kleinen, verstreuten Holzfäller- und Bergbausiedlungen mit nur wenig Kontakt zum Rest Hexatans in kleinen, sehr verschlossenen Gemeinschaften lebt und so bislang nur wenig davon beeinflusst wurde.
 
-Darüber hinaus verfolgt jede Klasse noch ihre ganz eigenen Ziele. Die Händler mehren ihre Reichtümer, das Militär zählt Orden und gewonnene Schlachten, derweil der Adel sich in der Größe seiner Land- und Bevölkerungsbesitzungen und der Untätigkeit seiner selbst misst.
+### Gesellschaftsstruktur
+Die Gesellschaft ist grob in fünf Gruppen gegliedert. 
+Diese sind:
+- Die Bauern und sesshaften Arbeiter jeglicher Art
+- Die wandernden Handwerker und Künstler
+- Die drei hohen Klassen:
+	- Die Händler
+	- Der Adel
+	- Das Militär
+Über allem steht die Kaiserin, einer Göttin gleich.
 
-In diesem unbarmherzigen Konkurrenzkampf geht der große, klassenlose Rest der Gesellschaft völlig unter. 
-Die Bauern hungern, nachdem ihnen der Adel die eine Hälfte und die Händler die andere Hälfte ihrer Ernte gestohlen haben und das Militär die Männer eingezogen hat.
-Die umherziehenden Künstler werden belächelt oder beschimpft, je nachdem, wo sie gerade sind, wenn sie nicht gleich umgebracht werden.
+Die drei hohen Klassen stehen einigermaßen gleichberechtigt und sich gegenseitig in ihrer Existenz bedingend nebeneinander an der Spitze der Gesellschaft. 
 
+Weit darunter befinden sich die Bauern und alle anderen, die sesshaft einer ehrbaren Arbeit nachgehen - oder kurz der Pöbel.
+Diese Gruppe der Gesellschaft zeichnet sich durch zahlreiche feine Abstufungen in Ansehen und Vermögen aus, wobei die Bauern häufig recht weit unten in der gesellschaftlichen Rangordnung stehen.
+
+Noch darunter am Rande der Gesellschaft stehen die fahrenden Künstler und andere, die dauerhaft von Ort zu Ort ziehen und ihre Waren und Dienstleistungen feilbieten. 
+Zwar ist die Grenze zum Pöbel sehr unscharf, man muss jedoch in der Regel nicht lange suchen, um zu erkennen, wo der fahrende Teil in der Gesellschaft steht.
+
+Einige wenige Gruppen von Personen stehen auch außerhalb der Gesellschaft. 
+Manche von ihnen erfahren je nach Ort und Lage hohe Achtung, derweil andere bestenfalls mit Verachtung bedacht werden.
+
+In wenigen Städten haben einige Handwerker wiederum einen Sonderstatus, der sie aus dem Pöbel heraus auf dieselbe Stufe mit den drei hohen Klassen hebt. 
+Dies verdanken sie in der Regel speziellen lokalen Privilegien, seltener jedoch eigener Leistung.
+
+### Die drei hohen Klassen
+Bedingt durch die Spaltung der Gesellschaft in den klassenzugehörigen Teil und den Pöbel ist die Kultur Hexatans abhängig davon, in welcher gesellschaftlichen Umgebung man sich bewegt, grundverschieden.
+
+Derweil der Pöbel sein Leben lebt und genießt, folgt das Leben des Militärs und Adels auf bisweilen schon obskure Weise fest den zahlreichen Protokollen und ihren Schritten, die es für jede erdenkliche Gelegenheit gibt.
+
+Die Händler bilden hier die heere Ausnahme, sind einige von ihnen doch weit bekannte Kunstsammler oder -mäzen. 
+Mit der Pflege und Erweiterung von Kunstgalerien stecken die Händler bisweilen aber auch den Adel an und schaffen sich so lukrative Absatzmärkte.
+
+Musik und Theater sind jedoch in diesen oberen Gesellschaftsschichten wenn überhaupt, dann als schmückendes Beiwerk bei entsprechenden Veranstaltungen vorhanden.
+Und auch das nicht als Hauptattraktion, oder um mit Aufmerksamkeit bedacht zu werden, sondern primär, um dem Protokoll genüge zu tun und durch ihren akustischen akustischen Anteil vertrauliche Gespräche einfacher vertraulich zu halten.
+
+Derweil alle drei Klassen am Ende des Tages ein und dasselbe Ziel verfolgen, sich über die anderen beiden Klassen zu erheben und sie zum Pöbel in die Versenkung zu verbannen, sind sie doch gleichermaßen auf einander angewiesen.
+
+Das Militär steht beim Adel im Sold und ist dadurch von seinen Launen abhängig.  
+Der Adel wiederum benötigt das Militär, um einerseits den Pöbel auf Abstand zu halten und andererseits den eigenen Einfluss innerhalb der Klasse zu vergrößern. 
+Die Händler wiederum sind auf den Adel angewiesen, um sie vor dem Militär und seinen Ambitionen zu beschützen, sowie gleichzeitig als ihren wichtigsten Absatzmarkt, direkt gefolgt vom Militär selbst. 
+Beide Kundenfraktionen wiederum sind auf die Waren der Händler angewiesen.  
+Der Adel obendrein noch auf die Steuern, sofern sie denn gezahlt werden.  
+Außerdem leisten die Händler mit ihrer weitreichenden und leistungsfähigen Logistik regelmäßig einen erheblichen Beitrag zur Verhinderung von Unruhen auf Grund mangelnder Nahrungsmittel und anderer Ressourcen.
+
+Innerhalb einer jeden Klasse herrscht derselbe Kampf, der auch zwischen den Klassen tobt, nur mit anderen Mitteln:
+Der Adel setzt auf Attentate, das Militär auf Hinterhalte und die Händler auf geschickt gestreute Gerüchte und gefälschte Bilanzen.
+Alle drei sind so alltäglich, dass sie in den elitärsten Kreisen der Klassen beinahe zum guten Ton im Umgang miteinander zählen.
+
+Und alles geschieht vor dem Hintergrund des Dreiklangs der unabhängig von den anderen verfolgten Ziele:
+Die Händler mehren ihre Reichtümer, das Militär zählt Orden und gewonnene Schlachten, derweil der Adel sich in der Größe seiner Land- und Bevölkerungsbesitzungen und der Untätigkeit seiner selbst misst.
+
+Gerade letzteres hat im Laufe der Zeit absurde Züge angenommen, sodass insbesondere im höheren Adel Personen mit fehlenden Gliedmaßen als Ausdruck ihrer besonderen Untätigkeit immer häufiger werden.
+
+### Der Pöbel
+Bei allem Streben nach mehr Macht geht die Grundlage für dies alles - der Pöbel - völlig unter.
+Die Bauern hungern, nachdem ihnen der Adel die eine Hälfte und die Händler die andere Hälfte ihrer Ernte gestohlen haben. 
+Schließlich zieht das Militär noch diejenigen ein, die ansonsten im nächsten Jahr die Felder bestellt hätten.
+Wenngleich dies nur der Extremfall ist, so zeigt es doch, dass das Leben dem Pöbel nur wenige Chancen bietet.
+
+Die fahrenden Künstler Hexatans sind zwar ein beliebtes Ziel für Anfeindungen und Gewaltexzesse; gleichzeitig werden ihre Darbietungen und die Abwechslung, die sie mit sich bringen, mit einer im krassen Gegensatz dazu stehenden Ehrfurcht bewundert.
+
+Zeigt sich das Leben dem Pöbel ausnahmsweise mal nicht von seiner überaus großen Schattenseite, findet man ein Volk vor, das zu einer unüberschaubaren Zahl an Göttern und gleichgestellten Wesen betet und etwa genauso viele Feiertage und Feste begeht.
+
+Unter all dem finden sich als ständig wiederkehrendes Motiv Drachen wieder, sei es aus Aberglaube oder nur in Andacht an dunklere Zeiten, als die Drachenkaiserin einen Jahre wütenden Feuersturm über dem Kontinent entfesselte.
+
+### Die Kaiserin
 Über all dem befindet sich die Kaiserin.
 Verehrt wie eine Göttin, steht sie im Zentrum sämtlicher Intrigen, denn bei ihr ruht sämtliche Macht.
-Ihr Thron ist die ultimative Zielscheibe jeglichen Machtstrebens, derweil sie selbst regelmäßig zur Zielscheibe von Attentaten wurde.
+Ihr Thron ist das ultimative Ziel jeglichen Machtstrebens.  
+Ihr Ableben - oder Verschwinden - hinterließ mit ihrem leeren Thron ein derartiges Machtvakuum, dass das instabile Gefüge der drei großen Klassen über Nacht implodierte und die stolze Nation Hexatan in einen gigantischen Scherbenhaufen verwandelte.
 
-Wurde, denn sie hat schon lange keine Audienz mehr gegeben und ihr Palast ist einerseits besser bewacht als alles andere auf Hexatan, und andererseits nahezu unmöglich zu infiltrieren.
+Während sie hin und wieder zum Ziel von Attentaten unvorsichtiger Adliger wurde, blieb ihre Position Zeit ihres Lebens unangetastet. 
+Ein Wort von ihr genügte, um das ganze Reich vor ihr auf die Knie fallen zu lassen oder jede beliebige Person im gesamten Reich hinzurichten.  
+Und so würde niemand, auch nicht der höchste Adel es wagen, öffentlich direkt zur Kaiserin zu sprechen, oder sie gar anzusehen.   
+Denn darauf steht die Todesstrafe, und das nicht nur für den Pöbel.
 
-Niemand, auch nicht der höchste Adel würde es wagen, öffentlich direkt zur Kaiserin zu sprechen, oder sie gar anzusehen. Darauf steht die Todesstrafe.
+Auf der anderen Seite ist die Kaiserin gerade auf Grund ihrer Position nicht Teil der Gesellschaft, wodurch für sie die üblichen Normen des Adels, die darauf abzielen, alles und jeden möglichst weit auf Abstand zu halten, nicht gelten.
+Abseits der wachsamen Augen der Öffentlichkeit hat sich eine Subkultur im engsten Kreis der Bediensteten und längsten Weggefährten auf Augenhöhe mit der Kaiserin gebildet, die mehr der des Pöbels, denn der der hohen Gesellschaft gleicht.  
 
-Gleichzeitig gibt es eine kleine Gruppe Personen im engsten Kreis der Kaiserin - primär ihre innersten Bediensteten und allesamt langjährige Weggefährten - bei der abseits der wachsamen Augen des restlichen Kaiserhofs nicht zu bemerken ist, dass die Kaiserin überhaupt existiert.
-Gemeinsam mit der Kaiserin wird diskutiert, gespielt, gefeiert, gescherzt und genossen - ganz ohne jede Distanz und völlig ohne Kenntnis der restlichen Welt.
-
-Wenngleich Kunst nur eine untergeordnete Rolle in Hexatan spielt, merkt man doch an vielen Stellen Einflüsse bestimmter Art.
-Da ist das Meer und die ruhmreiche Kaiserliche Flotte, die einen gewissen Einfluss auf die Sprache und Architektur auf dem gesamten Kontinent haben.
-Das Zentralmassiv in der Mitte des Kontinents und Heim der Drachen, die einen ganz erheblichen Einfluss haben, sowohl, was die Architektur und den Schiffbau angeht, als auch die Kunst und den Glauben.
-
-Die Kultur Hexatans ist ebenfalls durch die harten Trennungen zwischen den einzelnen Klassen, den Klassenlosen, aber auch von den im Adel und insbesondere im Militär sehr alten und starren Hierarchien geprägt.
-
-Kulturell, aber auch gesellschaftlich stark abweichend lebt nur die Bevölkerung am Rande des Zentralmassivs, das dort in den verstreuten Holzfäller- und Bergbausiedlungen mit nur wenig Kontakt zum Rest Hexatans lebt und so bislang in weiten Teilen von seinem Einfluss verschont blieb.
-
-Wenngleich insbesondere die Gelbeisenminen im Nordosten des Zentralmassivs für das Kaiserreich von enormer Bedeutung sind, findet sich dennoch nur wenig Militär und keine der anderen Klassen im weiteren Umkreis dieser Minen. 
+## Sonstiges
+Wenngleich insbesondere die Gelbeisenminen im Nordosten des Zentralmassivs für das Kaiserreich von enormer Bedeutung sind, findet sich dennoch nur wenig Militär, und von diesem ausschließlich direkt der Kaiserin unterstellte Truppen und keine der anderen Klassen im weiteren Umkreis dieser Minen. 
 Einerseits ist die weitläufige Gegend nahezu unmöglich zu patrouillieren, andererseits wissen die Bewohner ihre Autonomie zu schätzen und verteidigen sie notfalls auch mit Gewalt. 
-Im unwegsamen Gelände des Gebirsrands haben sie dabei nicht nur den Heimvorteil, sondern sind dem schwer gepanzerten Militär auch in Sachen Beweglichkeit und Ausdauer weit überlegen.
+Im unwegsamen Gelände des Gebirgsrands haben sie dabei nicht nur den Heimvorteil, sondern sind dem schwer gepanzerten Militär auch in Sachen Beweglichkeit und Ausdauer weit überlegen.
 
 Der Kaiserin wurden schon mehrfach Bitten angetragen, die Gelbeisenschürfer auszuräuchern, um sie gegen getreuere Diener zu ersetzen. 
 Sie sah hierfür allerdings noch nie die Notwendigkeit, da derartige Zwischenfälle in der Regel nur einzelne Dörfer betrafen, die Versorgung des Reichs nie gefährdet war und es außerdem erheblich einfacher ist, die eigenen Gefolgsleute hinzurichten.
