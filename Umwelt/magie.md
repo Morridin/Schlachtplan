@@ -2,6 +2,7 @@
 In dieser Welt existiert Magie. 
 Sie tritt in diversen Erscheinungsformen zu Tage.
 Die meisten dieser Erscheinungsformen lassen sich in eine von drei Kategorien der Herkunft bzw. der Umweltbeeinflussung einteilen.
+
 ## Unterteilung nach Quelle
 Generell wird unterschieden zwischen natürlicher Magie, gerufener Magie und manifestierter Magie.
 
@@ -30,7 +31,7 @@ Derweil natürliche Magie in aller Regel inert ist und lediglich einen bestimmte
 Besonders fähige und erfahrene Magier verstehen es aber durchaus, sogar inerte Magie zu rufen, derweil ungeübte oder unangeleitete Magier in der Regel instabile Magie beschwören und damit sich selbst und ihre Umgebung in höchstem Maße gefährden.
 Instabile Magie tritt ansonsten in der Regel bei den spontanen Entladungen manifestierender Magie auf.
 
-##Magier
+## Magier
 Magier, Zauberer und all jene, welche Magie aktiv anwenden, unterschieden sich ihren normalen Artgenossen in bestimmten Aspekten.
 Das Rufen magischer Ereignisse verändert den Nutzer, da es sich hierbei in der Regel um emittierende Magie handelt.
 Ist die gerufene Magie jedoch inert, ergeben sich in der Regel keine Effekte, derweil die Überlebensquote bei instabiler Magie nicht sonderlich hoch ist.
@@ -38,7 +39,7 @@ Ist die gerufene Magie jedoch inert, ergeben sich in der Regel keine Effekte, de
 Durch das Rufen emittierender Magie bilden sich beim Rufenden Mutationen, körperliche Besonderheiten oder Male aus.
 Ein Beispiel: ein Zauberer, welcher oft Blitze herbeiruft, bildet mit der Zeit blitzförmige Narben aus, bekommt schwarze Fingerspitzen oder abstehende Haare.
 
-##Schwarzer Eiter
+## Schwarzer Eiter
 Ein anderer Effekt kann die Produktion einer schwarzen, klebrigen und zähflüssigen Masse sein, auch bekannt als Schwarzer Eiter oder Hexenteer.
 Er wird zwar in geringem Umfang vom Körper abgebaut, jedoch nicht in ausreichendem Maße, um eine umfängliche Magienutzung zu ermöglichen.
 Derweil manche Magier als Lösung hierfür die Erschaffung eines auf den Abbau des Eiters spezialisierten Organs auserkoren haben, ziehen andere es lieber vor, sich regelmäßig zum Aderlass zu begeben, um die giftige Flüssigkeit loszuwerden.
