@@ -573,3 +573,21 @@ Neben dem Loch, so dass man sich auf das Loch setzen konnte, lagerte so etwas wi
 Auch wenn es ihr vorher nicht so wirklich aufgefallen war, hatte sich in den letzten Stunden einiges angesammelt und es war höchste Zeit gewesen.
 
 Nachdem sie sich erleichtert hatte, wieder sauber war und am Waschtisch mit Wasser aus einem darunterstehenden Krug die Hände gewaschen hatte, zog sie sich fertig an und ging wieder nach unten.
+
+## <Fehlendes Stück>
+
+Zwischen der Ankunft Lenas in Oosend und ihrer Rückkehr nach Karlsruhe vergehen in dieser Welt etwa fünf Jahre. 
+Dank einiger größeren Magieereignisse, die zu Zeitschleifen führen, werden es für Lena etwa zwanzig Jahre sein.
+
+## Epilog
+
+Lena blickte nach draußen aus dem dunklen Tunnel des Seiteneingangs des Bahnhofs in eine tief verschneite Welt.
+Direkt am Ende des Tunnels hatte sich eine Schneewehe aufgetürmt und blockierte den Durchgang zur Hälfte.
+Dahinter war die Verschneite Ruine eines Hauses zu sehen.
+
+Lena nahm einen tiefen Atemzug. 
+Die eisige Luft stach in den Lungen.
+
+Dann trat sie nach draußen in die Eiswüste, die einst ihre Heimat gewesen war und machte sich langsam auf den Weg nach Hause.
+
+__ENDE__
