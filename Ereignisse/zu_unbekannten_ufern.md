@@ -91,7 +91,7 @@ _Wo bin ich hier?_, dachte sie, als der Zug über eine Brücke fuhr und sie nach
 
 Der Zug verließ die Brücke wieder und rumpelte über einige Weichen, von denen eine Reihe Abstellgleise mit diversen ausgeblichen aussehenden alten Wagen darauf abzweigten.
 
-„Dies ist der Güterbahnhof von Nebelfels – eigentlich zur Zollabfertigung von Güterzügen gedacht. Nur fährt hier kein Güterzug längs.“, ertönte hinter Lena die Stimme des Zugbegleiters, als hätte er ihre Gedanken lesen können. 
+„Dies ist der Güterbahnhof von Nebelfels – eigentlich zur Zollabfertigung von Güterzügen gedacht. Nur fährt hier kein Güterzug längs“, ertönte hinter Lena die Stimme des Zugbegleiters, als hätte er ihre Gedanken lesen können. 
 „Deswegen stellt die DB hier seit Jahren ihre alten Wagen hin. Und ansonsten sind wir aktuell nicht auf der Erde. Aber ich kann Ihnen versichern, dass Sie noch leben.“
 
 „Ihr Ernst?“
@@ -144,34 +144,34 @@ Aus dieser löste sich auf halbem Wege eine Frau, die sie wohl kommen gesehen ha
 „Erstmal mit reinkommen, der Zug zurück, der eigentlich schon hier sein sollte, fällt aus“, schlug die Polizistin vor, die die Situation sofort erfasste. 
 „Wo wolltest du eigentlich hin?“
 
-„Nach Venedig.“, antwortete Lena, als sie über die Gleise zur Zollstation geführt wurde.
+„Nach Venedig“, antwortete Lena, als sie über die Gleise zur Zollstation geführt wurde.
 
-„Ja gut. Das ist schon was Cooles. Kann ich nachvollziehen, dass dir das hier gerade alles nicht ganz reinpasst.“, kommentierte die Polizistin mitfühlend. 
+„Ja gut. Das ist schon was Cooles. Kann ich nachvollziehen, dass dir das hier gerade alles nicht ganz reinpasst“, kommentierte die Polizistin mitfühlend. 
 
-„Unsere Rechner hier im Haus haben tatsächlich Internet, da können wir gleich mal nachschauen, ob du da heute noch hinkommst.“, fügte sie noch hinzu, als sie Lena die Türe aufhielt.
+„Unsere Rechner hier im Haus haben tatsächlich Internet, da können wir gleich mal nachschauen, ob du da heute noch hinkommst“, fügte sie noch hinzu, als sie Lena die Türe aufhielt.
 
 
-„Ah, danke. Schon viel besser.“, war Lenas erster Kommentar, als sich die Tür hinter ihnen schloss und den Wind aussperrte.
+„Ah, danke. Schon viel besser“, war Lenas erster Kommentar, als sich die Tür hinter ihnen schloss und den Wind aussperrte.
 
 Sie wurde um ein paar Ecken herum in ein gemütliches Großraumbüro geführt, das gewisse Ähnlichkeiten mit einem Wohnzimmer hatte. 
 Ein paar Begrüßungen ertönten von hier und da, die kurz beantwortet wurden, während Lena zielsicher auf einen Schreibtischstuhl bugsiert wurde, während die Polizistin neben ihr Platz nahm, den Rechner auf dem Schreibtisch vor ihr entsperrte und das Internet bemühte.
 
 „Schau mal, hier hätten wir eine Verbindung mit einem ECE, aber ich sehe gerade, dass der schon voll ist... Und die Verbindung danach auch... Was machen die da alle?“, kommentierte sie die Ergebnisse ihrer Suche.
  
-„Bist du dir wirklich sicher, dass du nach Venedig willst? Da scheint irgendwie gerade die halbe Welt hinzuwollen.“, harkte sie nochmal nach.
+„Bist du dir wirklich sicher, dass du nach Venedig willst? Da scheint irgendwie gerade die halbe Welt hinzuwollen“, harkte sie nochmal nach.
 
-„Ich hatte mich eigentlich schon darauf gefreut. Aber wenn da alles voll ist, macht das auch keinen Spaß.“, gab Lena Auskunft. „Was wären denn die Alternativen?“
+„Ich hatte mich eigentlich schon darauf gefreut. Aber wenn da alles voll ist, macht das auch keinen Spaß“, gab Lena Auskunft. „Was wären denn die Alternativen?“
 
-„Hmm … schwierig. Paris ginge. Marseille ginge auch, wenn es Mittelmeer sein soll.“, kamen ein paar nicht so ganz überzeugte Vorschläge. 
+„Hmm … schwierig. Paris ginge. Marseille ginge auch, wenn es Mittelmeer sein soll“, kamen ein paar nicht so ganz überzeugte Vorschläge. 
 „Oder, wenn du wirklich deine Ruhe haben willst, nimmst du gerade den nächsten Zug in einer halben Stunde, der dich dann nach Oosend bringt.“
 
-„Aber ich denke, der ist ausgefallen.“, erwiderte Lena etwas verwirrt.
+„Aber ich denke, der ist ausgefallen“, erwiderte Lena etwas verwirrt.
 
 „Stimmt. Stell‘ mal deinen Rucksack da in die Ecke und mach dir das so lange ein wenig gemütlich. Kaffee oder Tee?“
 
-„Ähm ... ich hatte gerade erst Frühstück. Aber ein Kaffee kann nicht schaden.“, antwortete Lena, während sie ihren Rucksack abstellte.
+„Ähm ... ich hatte gerade erst Frühstück. Aber ein Kaffee kann nicht schaden“, antwortete Lena, während sie ihren Rucksack abstellte.
 
-„Ok. Kommt sofort.“, kam es schon vom anderen Ende des Raumes. 
+„Ok. Kommt sofort“, kam es schon vom anderen Ende des Raumes. 
 Kurz darauf machte sich der Geruch von Kaffee breit, als die Tür nach draußen geöffnet wurde und wieder ins Schloss fiel. 
 
 „Ah, krieg ich auch einen?“, kam es von dort her.
@@ -181,26 +181,26 @@ Kurz darauf machte sich der Geruch von Kaffee breit, als die Tür nach draußen 
 „Schon gut – als ob ich das sonst nicht auch täte…“, brummelte ein leicht rundlicher Mann mit Dreitagebart, als er ins Büro kam. 
 „Ah, hi, hat dich unsere Anna schon angeworben?“
 
-„Nein, aber ich fahre nun wohl doch weiter.“, antwortete Lena. „Wieso angeworben?“
+„Nein, aber ich fahre nun wohl doch weiter“, antwortete Lena. „Wieso angeworben?“
 
-„Kleiner Scherz. Aber dann war sie ja zumindest damit erfolgreich.“, schmunzelte der Polizist, der irgendwie gewisse Ähnlichkeiten mit einem Bären hatte. 
+„Kleiner Scherz. Aber dann war sie ja zumindest damit erfolgreich“, schmunzelte der Polizist, der irgendwie gewisse Ähnlichkeiten mit einem Bären hatte. 
 „Kann ich mal gerade deinen Reisepass haben, damit wir das mit der Ausreise schon erledigen können?“
 
-„Ja klar, warten Sie kurz.“, machte sich Lena auf die Suche nach dem Dokument.
+„Ja klar, warten Sie kurz“, machte sich Lena auf die Suche nach dem Dokument.
 
-„So, hier, bitte sehr. Einer für dich ... und einer für dich ... und einer für mich.“, meldete sich Anna mit dem Kaffee.
+„So, hier, bitte sehr. Einer für dich ... und einer für dich ... und einer für mich“, meldete sich Anna mit dem Kaffee.
 
 „Ist schon Zucker drin?“, erkundigte sich der Polizist, den Lena innerlich schon ‚Bär‘ getauft hatte.
 
 „Wie war das vorhin?“
 
-„Schon gut, bin ja schon weg.“, verzog sich ‚Bär‘ leicht grummelnd mit seinem Kaffeebecher und Lenas Reisepass in der Hand nach weiter hinten im Raum.
+„Schon gut, bin ja schon weg“, verzog sich ‚Bär‘ leicht grummelnd mit seinem Kaffeebecher und Lenas Reisepass in der Hand nach weiter hinten im Raum.
 
-„So, eines solltest du aber noch wissen, bevor du weiterfährst: Es gibt hier auf diesem Planeten weder Internet noch ein Telefonnetz. Kurzum: Solltest du verloren gehen, gibt es für dich keine Möglichkeit, uns zu kontaktieren. Außerdem solltest du dir darüber im Klaren sein, dass diese Hütte hier die einzige Vertretung der Erde auf diesem Planeten ist. Zumindest die einzige, von deren Existenz ich jetzt so aus dem Kopf weiß.“, klärte Anna sie auf.
+„So, eines solltest du aber noch wissen, bevor du weiterfährst: Es gibt hier auf diesem Planeten weder Internet noch ein Telefonnetz. Kurzum: Solltest du verloren gehen, gibt es für dich keine Möglichkeit, uns zu kontaktieren. Außerdem solltest du dir darüber im Klaren sein, dass diese Hütte hier die einzige Vertretung der Erde auf diesem Planeten ist. Zumindest die einzige, von deren Existenz ich jetzt so aus dem Kopf weiß“, klärte Anna sie auf.
 
 „Aha?“, enthielt sich Lena jeden Kommentars.
 
-„Hinsichtlich deiner Fahrkarte sollten wir uns noch mit dem Zugbegleiter des nächsten Zugs unterhalten, aber das sollte eigentlich klar gehen.“, machte Anna weiter.
+„Hinsichtlich deiner Fahrkarte sollten wir uns noch mit dem Zugbegleiter des nächsten Zugs unterhalten, aber das sollte eigentlich klar gehen“, machte Anna weiter.
 
 „So, das wär’s. Du bist jetzt offiziell ausgereist!“, dröhnte der Kommentar von ‚Bär‘ dazwischen.
 
@@ -234,9 +234,9 @@ Es lohnte sich für Lena jetzt schon, weiter gefahren zu sein – die Natur hier
 „Einen wunderschönen guten Morgen, die Fahrkarten bitte“, quäkte es sie auf einmal von links an. 
 Lena fuhr zusammen – sie hatte den Zugbegleiter bis gerade eben nicht wahrgenommen, so vertieft war sie darin gewesen, die am Zugfenster vorbeiziehende Landschaft in sich aufzusaugen.
 
-„Ähm ... ja ... sofort.“, stotterte sie zusammen, während sie sich beeilte, ihre Fahrkarte aus ihrem Versteck hervorzuholen.
+„Ähm ... ja ... sofort“, stotterte sie zusammen, während sie sich beeilte, ihre Fahrkarte aus ihrem Versteck hervorzuholen.
 
-„Mhm ... aha ... ok. Ihren Reisepass bitte.“, quäkte die kurze Gestalt vor ihr, die sie erst jetzt wirklich wahrnahm. 
+„Mhm ... aha ... ok. Ihren Reisepass bitte“, quäkte die kurze Gestalt vor ihr, die sie erst jetzt wirklich wahrnahm. 
 Sie hatte gewisse Ähnlichkeiten zu einem sehr kleinen Mann, aber so einige Dinge passten nicht ganz: die wie elektrisch aufgeladen senkrecht in alle Richtungen vom Kopf abstehenden roten Haare, die rötliche Hautfarbe, die leicht krallenartigen Fingernägel an den vierfingrigen Händen und die kurzen Hörnchen an beiden Schläfen. 
 Ein leichter Geruch nach verbranntem Holz umgab ihn.
 
@@ -247,15 +247,15 @@ Der dunkelblaue Zweireiher und die dazugehörige Schirmmütze wiesen ihn ganz ei
 
 Dieser reagierte schon fast beleidigt: „Was denken Sie denn? Natürlich nicht. Nur weil Sie nichts anderes kennen, müssen Sie ja nicht gleich mit dem Finger auf andere zeigen. Ich frage Sie ja auch nicht, ob sie etwas anderes als ein Faun sind.“
 
-„Oh, Entschuldigung, das meinte ich nicht so – wissen Sie, ich bin das erste Mal hier und alles ist so anders und neu und so. Kommt nicht wieder vor.“, ging Lena sofort in die Verteidigung.
+„Oh, Entschuldigung, das meinte ich nicht so – wissen Sie, ich bin das erste Mal hier und alles ist so anders und neu und so. Kommt nicht wieder vor“, ging Lena sofort in die Verteidigung.
 
-„Naja, ich will es Ihnen nachsehen – da ist wohl mein Temperament wieder mit mir durchgegangen. Gornik, Ogonezling. Hier, bitte sehr, hier passt alles. Eine schöne Reise wünsche ich Ihnen noch.“, verabschiedete sich das Männchen, schon wieder beruhigt.
+„Naja, ich will es Ihnen nachsehen – da ist wohl mein Temperament wieder mit mir durchgegangen. Gornik, Ogonezling. Hier, bitte sehr, hier passt alles. Eine schöne Reise wünsche ich Ihnen noch“, verabschiedete sich das Männchen, schon wieder beruhigt.
 
 „Obwohl, eins noch: Sie werden vermutlich in Oosend eine Unterkunft benötigen, gehe ich da richtig in der Annahme?“, kehrte er noch einmal um.
 
 „Ähm, ja?“ – Lena wusste nicht so ganz, worauf das rote Männchen hinauswollte.
 
-„In diesem Fall empfehle ich, dass Sie sich im Gasthaus am Totenplatz einquartieren. Das ist etwa mittig gegenüber des bergabstehenden, großen Behördengebäudes. Vom Bahnhof aus nicht zu verfehlen.“, gab Gornik Auskunft, bevor er endgültig ging.
+„In diesem Fall empfehle ich, dass Sie sich im Gasthaus am Totenplatz einquartieren. Das ist etwa mittig gegenüber des bergabstehenden, großen Behördengebäudes. Vom Bahnhof aus nicht zu verfehlen“, gab Gornik Auskunft, bevor er endgültig ging.
 
 „Hmm … danke. Merke ich mir.“ 
 
@@ -375,7 +375,7 @@ Dort stieß sie beinahe mit Gornik zusammen, der gerade durch den Zug ging und s
 
 „Nicht so schlimm – ich hätte sie schon gefunden. Einen schönen Tag noch!“, beschwichtigte Gornik.
 
-„Danke, Ihnen auch.“, verabschiedete sich Lena und stieg nach draußen in eine in schummriges Licht getauchte Bahnhofshalle. 
+„Danke, Ihnen auch“, verabschiedete sich Lena und stieg nach draußen in eine in schummriges Licht getauchte Bahnhofshalle. 
 
 Zwei Bahnsteige weiter ganz am anderen Ende des Bahnhofs fuhr gerade mit brüllendem Lüfter ein anderer Zug ein, bei dessen Anblick sich Lena die Augen rieb – der kam doch geradewegs aus dem Museum! 
 Sie schnappte sich also ihr allgegenwärtiges Smartphone und beeilte sich, hinüberzulaufen, um kurz ein Foto zu machen. 
@@ -399,7 +399,7 @@ Auf der Lena gegenüberliegenden Südseite endete der Platz an einem Brückengel
 Hinter ihr ragte imposant die dunkle Basaltfassade des Bahnhofsgebäudes auf.
 Links und rechts von ihr säumten große, düstere Gebäude mit grünen Kupferdächern den Platz.
 
-_Interessant._, war alles, was ihr dazu einfiel. 
+_Interessant_, war alles, was ihr dazu einfiel. 
 
 Sie blickte sich kurz um – und ihr Gefühl wurde bestätigt: Sie war die einzige menschliche Person auf diesem Platz. 
 Überhaupt war sie, soweit sie das sehen konnte, die einzige Person, die sich hier auf dem Platz gerade aufhielt.
@@ -412,7 +412,7 @@ Lena fiel auf, dass Gornik da offensichtlich andere Ansichten zu hatte als sie.
 
 _Hmm. Und wie finden wir das Gasthaus jetzt?_, fragte sie sich selbst in Gedanken, _Ich will hier immerhin nicht ewig durch den Regen rennen._
 
-_Wenn dieser Platz vom Bahnhof aus nicht zu verfehlen ist, dann muss er ja in direkter Nähe sein – vielleicht auch einfach nur am anderen Ende. Lass uns doch folgendes machen: Wir laufen jetzt einfach mal unten um den Bahnhof herum und dann immer größere Kreise, bis wir da sind._, überlegte sie, während ihr in Zahlen und Algorithmen denkender Teil übernahm und eine Lösung vorschlug, die zwar nicht effizient klang, aber erfolgsversprechend. 
+_Wenn dieser Platz vom Bahnhof aus nicht zu verfehlen ist, dann muss er ja in direkter Nähe sein – vielleicht auch einfach nur am anderen Ende. Lass uns doch folgendes machen: Wir laufen jetzt einfach mal unten um den Bahnhof herum und dann immer größere Kreise, bis wir da sind_, überlegte sie, während ihr in Zahlen und Algorithmen denkender Teil übernahm und eine Lösung vorschlug, die zwar nicht effizient klang, aber erfolgsversprechend. 
 Also los.
 
 Eine gute Viertelstunde später war Lena einmal westlich – auf der tieferen Seite – um den Bahnhof herumgelaufen und stand nun am westlichen Ende des Platzes vor der anderen Seite des Bahnhofsgebäudes. 
@@ -422,9 +422,9 @@ Sie schaute sich gerade ein wenig um, als plötzlich eine Pranke kräftig auf ih
 Erschrocken wirbelte sie herum, um in ein dunkles und breites Gesicht mit einem schwarzen Ziegenbart zu blicken, aus dem sie zwei gelbe Augen mit rechteckigen Pupillen freundlich anschauten. 
 Aus der Stirn des Wesens ihr gegenüber sprossen zwei kräftige Hörner, die sich nach hinten und oben wegbogen und hinter denen aus einer Mähne schwarzen, lockigen Haars zwei Ohren mit Fellbüscheln an den Spitzen wie bei Luchsen, herauslugten.
 
-„Oh, entschuldige, ich wollte dich nicht erschrecken.“, begann das Wesen mit einer sehr tiefen Stimme und verbeugte sich, als es sich vorstellte, „Koslaw von den Fellohren.“
+„Oh, entschuldige, ich wollte dich nicht erschrecken“, begann das Wesen mit einer sehr tiefen Stimme und verbeugte sich, als es sich vorstellte, „Koslaw von den Fellohren.“
 
-„Äh ja. Hast du aber.“, mehr viel Lena dazu auch nicht ein. 
+„Äh ja. Hast du aber“, mehr viel Lena dazu auch nicht ein. 
 
 Und einen Grund, es Koslaw gleich zu tun, und sich vorzustellen, sah sie auch noch nicht.
 
@@ -436,20 +436,20 @@ Und einen Grund, es Koslaw gleich zu tun, und sich vorzustellen, sah sie auch no
 
 „Hmm. Von welchem Gasthaus sprichst du? Oder hat Oosend nur eins?“
 
-„Nein, nein, da sind schon mehr. Aber ich spreche von dem am Totenplatz. Das scheint unter Euresgleichen recht beliebt zu sein. Auch wenn ich das nicht wirklich verstehen kann.“, gab Koslaw Auskunft.
+„Nein, nein, da sind schon mehr. Aber ich spreche von dem am Totenplatz. Das scheint unter Euresgleichen recht beliebt zu sein. Auch wenn ich das nicht wirklich verstehen kann“, gab Koslaw Auskunft.
 
 „_Meinesgleichen?_“ 
 Lena glaubte, sich verhört zu haben.
 
-„Naja, so wie du ohne Hörner auf der Stirn und mit so seltsamer Kleidung und so. Eben nicht von hier.“, erklärte ihr Koslaw ohne eine Mine zu verziehen. 
+„Naja, so wie du ohne Hörner auf der Stirn und mit so seltsamer Kleidung und so. Eben nicht von hier“, erklärte ihr Koslaw ohne eine Mine zu verziehen. 
 
 „Hmm. Ach so. Ich dachte nur ...“ – Lena sprach nicht zu Ende, weil ihr auffiel, dass sie gar nicht darüber nachgedacht hatte. 
 
 Interessanterweise beendete Koslaw für sie den Satz: „– Nichts?“
 
-„Ja.“, gab Lena zu, „Kannst du mir vielleicht den Weg zeigen?“
+„Ja“, gab Lena zu, „Kannst du mir vielleicht den Weg zeigen?“
 
-„Sicherlich.“, erklärte Koslaw und stapfte los. 
+„Sicherlich“, erklärte Koslaw und stapfte los. 
 Dabei fiel Lena auf, dass Koslaw offensichtlich keine Hose trug, aber dafür durch ein dichtes, schwarzes Fell bedeckt war. 
 Seine Füße waren Ziegenhufe – ein Faun also und dazu noch ein ziemlich großer. 
 
@@ -457,7 +457,7 @@ Es ging quer über den Platz und ein wenig den Berg hinauf bis zur zweiten Stra�
 Nach kurzer Zeit standen sie auf einem langgestreckten Platz, der sich über die gesamte Breite bis zur nächsten Straße den Berg hinauf erstreckte und entsprechend Gefälle aufwies. 
 Die gesamte, höher liegende Ostseite des Platzes nahm ein unglaublich langes, ein wenig zurückgesetzt hinter einem Zaun und einer Art Vorgarten stehendes Gebäude ein, das eine gewisse unangenehme Aura verströmte.
 
-„Das große Ding da ist eine Behörde der eher unangenehmen Art. Du willst nichts mit denen zu tun haben – noch nicht.“, erklärte ihr Koslaw, der wohl Gedanken lesen können musste, „Ah, hier sind wir.“
+„Das große Ding da ist eine Behörde der eher unangenehmen Art. Du willst nichts mit denen zu tun haben – noch nicht“, erklärte ihr Koslaw, der wohl Gedanken lesen können musste, „Ah, hier sind wir.“
 
 Als sich Lena umdrehte, erkannte sie, was Koslaw meinte. 
 Sie standen ganz offensichtlich vor einem Gasthaus.
@@ -494,11 +494,11 @@ Jetzt meldete sich der Mann am anderen Ende der Theke undeutlich zu Wort und Len
 
 "Du hattest schon zu viel - geh schlafen!", brummte dieser, ohne von seinem Humpen aufzublicken.
 
-"Schon gut, ich geh ja. Aber du hast da noch einen anderen Gast.", maulte der Mann in der Ecke und schlurfte langsam und mit unsicherem Gang von dannen.
+"Schon gut, ich geh ja. Aber du hast da noch einen anderen Gast", maulte der Mann in der Ecke und schlurfte langsam und mit unsicherem Gang von dannen.
 
 "Mhm ... was willst du?", brummte der Wirt, ohne den Blick zu heben.
 
-"Für den Anfang einen Ort, an dem ich meinen Rucksack abstellen kann. Und für heute Abend ein warmes und trockenes Bett zum Übernachten. Und jetzt vielleicht etwas zu essen.", antwortete Lena knapp.
+"Für den Anfang einen Ort, an dem ich meinen Rucksack abstellen kann. Und für heute Abend ein warmes und trockenes Bett zum Übernachten. Und jetzt vielleicht etwas zu essen", antwortete Lena knapp.
 
 Beim Klang ihrer Stimme blickte der Wirt doch auf.
 
@@ -510,23 +510,23 @@ Lena stellte fest, dass Koslaw nicht mehr bei ihr war.
 
 "Was ist?", fragte der Wirt.
 
-"Da war gerade noch so ein Faun bei mir.", antworte Lena.
+"Da war gerade noch so ein Faun bei mir", antworte Lena.
 
-"Vorsicht mit diesen Ziegen. Die tun so, als ob sie nett wären - aber passt du einmal nicht auf, schneiden sie dir die Kehle auf.", kommentierte das der Wirt abschätzig und fügte hinzu: "Das heißt aber, dass du nicht von _der Schule_ bist. Interessant. Hast du deinen Geldbeutel noch?"
+"Vorsicht mit diesen Ziegen. Die tun so, als ob sie nett wären - aber passt du einmal nicht auf, schneiden sie dir die Kehle auf", kommentierte das der Wirt abschätzig und fügte hinzu: "Das heißt aber, dass du nicht von _der Schule_ bist. Interessant. Hast du deinen Geldbeutel noch?"
 
 "Welche Schule?", fragte Lena.
 
-"Ach egal. Nicht so wichtig.", wich der Wirt aus, "Wie steht es um dein Geld?"
+"Ach egal. Nicht so wichtig", wich der Wirt aus, "Wie steht es um dein Geld?"
 
 Lena zog ihre Kreditkarte aus ihrem Portemonnaie. 
 
 "Ich weiß zwar nicht, ob ihr mit dem Ding was anfangen könnt, aber ...", begann sie.
 
-"Wir - ja. Aber ansonsten brauchst du schon was anderes.", unterbrach sie der Wirt.
+"Wir - ja. Aber ansonsten brauchst du schon was anderes", unterbrach sie der Wirt.
 
 "Ok. Kann ich das bei euch bekommen? Also verwendbares Geld?", erkundigte sich Lena.
 
-"Sicher. Für eine kleine 'Aufwandsentschädigung', versteht sich.", lächelte sie der Wirt gefährlich an.
+"Sicher. Für eine kleine 'Aufwandsentschädigung', versteht sich", lächelte sie der Wirt gefährlich an.
 
 "Wie viel?" - Lena hatte keine Lust, mit dem Wirt zu feilschen. Es würde ihr ohnehin nichts bringen.
 
@@ -534,7 +534,7 @@ Lena zog ihre Kreditkarte aus ihrem Portemonnaie.
 
 "Genug für, sagen wir, einen Monat."
 
-"Hmm ... das ist nicht wenig.", überlegte der Wirt noch, als die Frau, die vorhin noch Bier aufgefüllt hatte, ihr wortlos ein Kartenlesegerät hinhielt, das einen Betrag von 1000 Euro anzeigte und ein Blatt Papier daneben legte, auf dem aufgelistet war, wie sich der Betrag zusammensetzte.
+"Hmm ... das ist nicht wenig", überlegte der Wirt noch, als die Frau, die vorhin noch Bier aufgefüllt hatte, ihr wortlos ein Kartenlesegerät hinhielt, das einen Betrag von tausend Euro anzeigte und ein Blatt Papier daneben legte, auf dem aufgelistet war, wie sich der Betrag zusammensetzte.
 
 "Halt, nicht, ohhhh...", stöhnte der Wirt, erkennend, dass er gerade der Möglichkeit, sich zu bereichern, beraubt worden war.
 
@@ -543,12 +543,12 @@ Das las sich soweit schlüssig und von der 'Aufwandsentschädigung' konnte sie a
 
 Die Frau stellte ihr wortlos mehrere schwere Säckchen auf die Theke, bedachte den Wirt kurz mit einem vernichtenden Blick und verschwand, wohl in Richtung Küche.
 
-"Tja. Da hast du wohl Glück gehabt. Ich zeige dir dein Zimmer.", gab sich der Wirt geschlagen, kam hinter der Theke hervor und ging dann in dieselbe Richtung, wie vor gar nicht so langer Zeit der betrunkene alte Mann.
+"Tja. Da hast du wohl Glück gehabt. Ich zeige dir dein Zimmer", gab sich der Wirt geschlagen, kam hinter der Theke hervor und ging dann in dieselbe Richtung, wie vor gar nicht so langer Zeit der betrunkene alte Mann.
 
 Ein wenig Flur, einige Treppen und noch ein wenig Flur später standen sie vor einer schweren Holztür.
 Der Wirt nahm einen Schlüssel von seinem beachtlichen Schlüsselbund, schloss auf und überreichte ihr den Schlüssel.
 
-"Wenn du dann soweit bist, komm wieder runter, Karla macht dir dann was zu essen. Und wenn du gehst, will ich den Schlüssel wieder haben! ", ermahnte er Lena und ging wieder nach unten.
+"Wenn du dann soweit bist, komm wieder runter, Karla macht dir dann was zu essen. Und wenn du gehst, will ich den Schlüssel wieder haben!", erklärte er Lena und ging wieder nach unten.
 
 Hinter der Tür befand sich gar nicht so kleiner Raum mit einem Doppelbett darin. 
 Über dessen Kopfende war ein Fenster, dass auf den Totenplatz zeigte.
@@ -566,14 +566,10 @@ Die würde sie nachher wieder mit runter nehmen müssen, um sie vor dem Kamin zu
 Sie wollte gerade anfangen, sich ihr T-Shirt über den Kopf zu ziehen, als ihr auffiel, dass die Tür noch immer offen stand. 
 Also warf sie sie ins Schloss, damit sie sich ungestört umziehen konnte. 
 Ihrem T-Shirt folgten auch die Turnschuhe und die etwas längere kurze Hose.
-Sie kramte ein wenig in ihrem Rucksack herum, bis sie fand, was sie suchte: ein enganliegendes langärmliges T-Shirt, ihre allerliebste Reiseleggings, der dazugehörige nahtlose String, ein Paar trockene Socken und die Wanderschuhe mit ihrem Keilabsatz, bei denen sie sich mittlerweile fragte, warum sie sie nicht gleich angezogen hatte.
-
-An den Leggings war von außen betrachtet alles normal, abgesehen von einigen zusätzlichen Nähten, wo sich Lena eine zusätzliche, weiche Polsterung für Hintern und Oberschenkel ergänzt hatte.
-Davon abgesehen, dass diese Schaumstoffpolster ihre Figur schmeichelnd betonten, waren sie auf längeren Reisen so unglaublich bequem ...
-Und sicherlich eine gute Idee, falls sie noch länger auf den Bänken unten im Schankraum sitzen wollte.
+Sie kramte ein wenig in ihrem Rucksack herum, bis sie fand, was sie suchte: ein enganliegendes langärmliges T-Shirt, ihre allerliebste Reiseleggings, der dazugehörige nahtlose String, ein Paar trockene Socken und ihre Wanderstiefel mit Keilabsatz, bei denen sie sich mittlerweile fragte, warum sie sie nicht gleich angezogen hatte.
 
 Bevor sie sich ihre Leggings anzog, lief sie kurz rüber in ihr 'Bad' und setzte sich dort auf das, von dem sie vermutete, dass es der Abort war - eine glatt gehobelte Holzplanke mit einem großen Loch darin, das ins Dunkel führte. 
 Neben dem Loch, so dass man sich auf das Loch setzen konnte, lagerte so etwas wie Klopapier.
 Auch wenn es ihr vorher nicht so wirklich aufgefallen war, hatte sich in den letzten Stunden einiges angesammelt und es war höchste Zeit gewesen.
 
-Nachdem sie sich erleichtert und gereinigt hatte und am Waschtisch mit Wasser aus einem darunterstehenden Krug die Hände gewaschen hatte, zog sie sich fertig an und ging wieder nach unten.
+Nachdem sie sich erleichtert hatte, wieder sauber war und am Waschtisch mit Wasser aus einem darunterstehenden Krug die Hände gewaschen hatte, zog sie sich fertig an und ging wieder nach unten.
