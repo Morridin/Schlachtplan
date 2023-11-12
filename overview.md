@@ -57,7 +57,6 @@ Hier wird dann ein wenig Kram zum Thema Kommunismus kommen, dem die Zwerge Sulfu
 Lena bleibt nicht lange, sondern fährt, der Empfehlung ihres Retters aus Skraane folgend, weiter in Richtung Norden.
 
 ## Offene Enden:
-
 - Integration der Vorgeschichte in Hexatan
 	- Letzte Tage und Tod der Kaiserin
 	- Aussenden des Boten ins Drachengebirge
@@ -68,4 +67,11 @@ Lena bleibt nicht lange, sondern fährt, der Empfehlung ihres Retters aus Skraan
 	- Die hexatanische Hauptarmee wird nur auf Grund der bedingungslosen Treue al-Cohens zur Kaiserin nicht sofort aufgerieben
 	- Außerdem benötigt der General die zusätzlichen Soldaten, um auf Sulfur marschieren zu können.
 - S'kaahavn 
-
+	- Kommt Lena da wirklich hin?
+	- Klären: Detailgrad der Situationsbeschreibung
+	- Ggf. kein Aufenthalt Lenas zu Lernzwecken, sondern nur für einen Thing der hiesigen Faune
+- Was liegt nördlich von S'kaahavn?
+- Schlacht um Sulfur
+- Ggf. zusätzlicher Handlungsfaden lokal in Sulfur
+- Handlungsfaden ausgehend von Moderfall (Geisterproblem; Hilfe wird dringend gesucht)
+- Integration Graf Wyrenhofs von Eisenstein fehlt
