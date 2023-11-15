@@ -1,5 +1,7 @@
 # Notes on: Umsetzung "Zu unbekannten Ufern"
+
 ## Oosend
+
 ### Lena
 Lena wandert zunächst für ein paar Tage reichlich ziellos durch die Straßen der Stadt.
 Es herrscht zwar eine gewisse unheimliche Grundatmosphäre des viktorianischen Londons, es regnet viel und ist oft neblig, aber es passiert nie etwas, das die Atmosphäre wirklich rechtfertigen würde.
@@ -9,6 +11,10 @@ Koslaw taucht immer dann wie aus dem Nichts auf, wenn sie ihn gerade brauchen k�
 An einem der Tage kommt sie dabei runter zu den Werften und findet es dort toll. Koslaw dazu so: "Warte, bis du den Skraaner Hafen gesehen hast."
 
 Also Beschluss nach Skraane zu fahren.
+
+Auf ihrer Fahrt von Oosend nach Skraane schläft Lena entgegen ihrer Gewohnheiten ein. 
+Dabei hat sie einen Traum, in dem sie aus erhöhter Position (vermutlich der Perspektive eines Drachens) eine Flotte Dschunken beobachtet/verfolgt, die eilig von einer Insel wegfahren, verfolgt von Drachen (und ihr selbst (?!)), bombardiert mit Feuerbällen, derweil von den Schiffen aus auch Kram zurückfliegt. 
+Sie kann die Angst, den Hass und die Verzweiflung der Wesen dort unten, aber auch bei sich spüren.
 
 ### Hexatan
 Einige Monate zuvor in Hexatan: Ein Abenteurer erreicht nach langem Klettern im Drachengebirge, dem Zentralmassiv Hexatans, die Höhenlagen im Innern des Gebirges und trifft auf Drachen.
@@ -43,6 +49,7 @@ Dann bricht er mitten im Satz ab, um nach einer kurzen Pause (so, als hätte man
 
 Während Lena die Stadt hinter sich zurücklässt, kann sie sehen, wie auf einmal an mehreren Orten in Skraane gleichzeitig Feuer ausbrechen. 
 Kurze Zeit später brennt die ganze Stadt lichterloh und in der Ferne zeichnen sich die fernöstlichen Rahsegel der hexatanischen Dschunken ab.
+Ausglöst vom Anblick der Schiffe kommt der Traum von der Fahrt nach Skraane wie eine Luftblase aus dem Wasser hoch und verpasst Lena psychisch einen _heftigen_ Schlag.
 
 ## Sulfur
 Die restliche Fahrt verläuft unspektakulär. 
@@ -75,3 +82,4 @@ Lena bleibt nicht lange, sondern fährt, der Empfehlung ihres Retters aus Skraan
 - Ggf. zusätzlicher Handlungsfaden lokal in Sulfur
 - Handlungsfaden ausgehend von Moderfall (Geisterproblem; Hilfe wird dringend gesucht)
 - Integration Graf Wyrenhofs von Eisenstein fehlt
+	- Bei dem fehlen aber auch noch diverse Details

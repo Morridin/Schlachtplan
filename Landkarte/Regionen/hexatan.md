@@ -128,6 +128,13 @@ Und alles geschieht vor dem Hintergrund des Dreiklangs der unabhängig von den a
 Die Händler mehren ihre Reichtümer, das Militär zählt Orden und gewonnene Schlachten, derweil der Adel sich in der Größe seiner Land- und Bevölkerungsbesitzungen und der Untätigkeit seiner selbst misst.
 
 Gerade letzteres hat im Laufe der Zeit absurde Züge angenommen, sodass insbesondere im höheren Adel Personen mit fehlenden Gliedmaßen als Ausdruck ihrer besonderen Untätigkeit immer häufiger werden.
+Gleichwohl gilt es als eine Art unaussprechliche Sünde, adliges Blut zu vergießen, selbst wenn es das eigene ist.
+Entsprechend haben sich im Laufe der Zeit diverse interessante Methodiken entwickelt, um die mit dieser Haltung einhergehenden Probleme elegant zu umschiffen.
+
+Aus der Zeit der Feldzüge der Drachenkaiserin existieren in manchen der hohen Häuser Hexatans nach wie vor tiefe Wunden, die bis heute nicht verheilt sind.
+Sei es, weil die Kaiserin damals beliebte oder wichtige Mitglieder des jeweiligen Hauses ermorden ließ oder selbst ermordet hat, oder lediglich, weil die Ehre des Hauses gekränkt wurde, als Frieden geschlossen werden musste.
+Der hierdurch induzierte Hass gilt nicht immer der Kaiserin, zumal sie auch gar nicht immer verantwortlich ist, sondern gerne auch anderen Häusern, was regelmäßig zu seltsamen Kleinkriegen innerhalb Hexatans führt, "so lange die Kaiserin nicht hinsieht".
+Dass die Kaiserin sehr wohl über so ziemlich sämtliche Vorgänge in ihrem Reich nahezu in Echtzeit informiert ist, ist abgesehen von einigen wenigen Geheimdienstmitarbeitern kaum jemandem bekannt.
 
 ### Der Pöbel
 Bei allem Streben nach mehr Macht geht die Grundlage für dies alles - der Pöbel - völlig unter.
@@ -140,6 +147,9 @@ Die fahrenden Künstler Hexatans sind zwar ein beliebtes Ziel für Anfeindungen 
 Zeigt sich das Leben dem Pöbel ausnahmsweise mal nicht von seiner überaus großen Schattenseite, findet man ein Volk vor, das zu einer unüberschaubaren Zahl an Göttern und gleichgestellten Wesen betet und etwa genauso viele Feiertage und Feste begeht.
 
 Unter all dem finden sich als ständig wiederkehrendes Motiv Drachen wieder, sei es aus Aberglaube oder nur in Andacht an dunklere Zeiten, als die Drachenkaiserin einen Jahre wütenden Feuersturm über dem Kontinent entfesselte.
+
+In den seltenen Fällen, in denen einzelne Mitglieder des Pöbels zu Geld kommen, eröffnet sich ihnen die Möglichkeit, der Händlergilde beizutreten und so, ausreichendes Geschick im neuen Beruf vorausgesetzt, ihrer Familie zu unsterblicher Ehre zu verhelfen.
+Eine Alternative hierzu bietet eine höhere Militärlaufbahn, die aber selten durch Geld, sondern in vor allem durch ausreichend langes Überleben und das Zeigen der richtigen Fähigkeiten im regulären Militärdienst ermöglicht wird.
 
 ### Die Kaiserin
 Über all dem befindet sich die Kaiserin.
@@ -154,6 +164,7 @@ Denn darauf steht die Todesstrafe, und das nicht nur für den Pöbel.
 
 Auf der anderen Seite ist die Kaiserin gerade auf Grund ihrer Position nicht Teil der Gesellschaft, wodurch für sie die üblichen Normen des Adels, die darauf abzielen, alles und jeden möglichst weit auf Abstand zu halten, nicht gelten.
 Abseits der wachsamen Augen der Öffentlichkeit hat sich eine Subkultur im engsten Kreis der Bediensteten und längsten Weggefährten auf Augenhöhe mit der Kaiserin gebildet, die mehr der des Pöbels, denn der der hohen Gesellschaft gleicht.  
+Außer jenem inneren Zirkel ist niemandem der Name der Kaiserin bekannt und wird äußerst sorgfältig geheimgehalten.
 
 ## Sonstiges
 Wenngleich insbesondere die Gelbeisenminen im Nordosten des Zentralmassivs für das Kaiserreich von enormer Bedeutung sind, findet sich dennoch nur wenig Militär, und von diesem ausschließlich direkt der Kaiserin unterstellte Truppen und keine der anderen Klassen im weiteren Umkreis dieser Minen. 

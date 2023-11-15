@@ -1,15 +1,20 @@
 # Rote Berge
+
 ## Beschreibung
 Die Roten Berge sind ein Sandsteinmittelgebirge in Ost-West-Orientierung. 
 Sie liegen nördlich und westlich von Skraane und östlich von Karaot.
 
 Das Gebirge verläuft zunächst in einem nach Süden geöffneten Bogen, der nördlich von Skraane beginnt und im Westen zwischen Keiland und Karaot endet.
 Es gibt in nordwestlicher Lage einen zweiten Arm, der zum Mirakresch-Gebirge hinüberführt und den Einhornwald nach Norden und Osten hin begrenzt.
+
 Die Höhe der Berge südlich des Abzweigs zum Mirakresch-Gebirge nimmt stetig ab.
-Die Berge des Abzweigs jedoch nehmen stetig an Höhe zu und verändern sich dabei auch in ihrer Gestalt, sodass ein fließender Übergang von einem zum anderen Gebirge besteht.
+Am südlichen Ende entsteht so zusammen mit der Bruchkante nördlich des Großen Grasmeers ein schmaler Pass, über welchen man von Keiland nach Karaot und umgekehrt gelangen kann.
+
+Die Berge des Abzweigs nach Westen jedoch nehmen stetig an Höhe zu und verändern sich dabei auch in ihrer Gestalt, sodass ein fließender Übergang von einem zum anderen Gebirge besteht.
 
 Ihren Namen hat die Region von der rötlichen Farbe des Sandsteins, die zu bestimmten Zeiten im oberen Aane-Tal gut zur Geltung kommt. 
 Dort hat der Aane sich einen Canyon gegraben.
+Ganz am oberen Ende dieses Tals, nördlich des Canyons, liegt eine Ruinenstadt. Sie bildete einst den oberirdischen Zugang zum Zwergenreich unter den Roten Bergen und war lange Zeit der wichtigste Handelspartner Skraanes.
 
 Vom Mirakresch-Gebirge unterscheidet sich auch die Form der Berge; sie ist deutlich weniger spitz und steil.
 
