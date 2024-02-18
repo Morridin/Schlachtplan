@@ -25,6 +25,23 @@ Ein besonders markanter Orientierungspunkt entlang der westlichen Küste ist ein
 Das zentrale Gebirge besteht aus einer ringförmigen Bergkette als äußeren Wall, die eine unübersichtliche Landschaft aus Hochebenen und Almen, sowie Bergen und Hügeln umschließt, die jeglicher geologischer Struktur entbehren.  
 Manche der Berge sind angeschmolzen, derweil anderen der Gipfel fehlt.
 
+### Kāhran-Gebirge
+*Urheber dieses Abschnitts: SW*
+Im Südwesten Hexatans befindet sich in Küstennähe eine zweite Bergkette.
+Ihre schwierige Topologie mit engen Tälern und teils hohen Gipfeln macht sie nachzu unpassierbar.
+
+Die Lage nahe der Küste mit vielen schwer einsehbaren Buchten macht sie zu einem beliebten Versteck vor dem Zugriff der hexatanischen Truppen.
+Diesen Umstand machten sich lange Jahre Sklavenhändler und Schmuggler zunutze, um unbehelligt ihren Geschäften nachgehen zu können. 
+Im Laufe vieler Jahrzehnte legten sie ein weitverzweigtes Höhlensystem in diesen Bergen an.
+
+Dieses diente nicht nur als Stützpunkt und Heimat für zahlreiche Gesetzlose, sondern auch als Umschlagplatz für Sklaven und illegale Güter und beherbergte mehrere Kampfarenen.
+
+Viele der Sklaven, die die hier ansässigen Gesetzlosen in diese Höhlen brachten, fanden dort ihren Tod beim Ausheben der Höhlen, in den Kampfarenen oder eingepfercht mit vielen Anderen, wartend auf ein ungewisses Schicksal.
+
+Vor einigen Jahren kam es zu einem großen Aufstand, infolge dessen weite Teile des Höhlensystems zum Einsturz kamen und die meisten mit sich begruben.
+Heutzutage ist die Gegend verlassen und die wenigen, die sich dorthin wagen, kehren entweder gar nicht zurück oder sind für den meist kurzen Rest ihres Lebens gezeichnet von den Schrecken, die sie dort erlebten.
+Gerüchten zufolge gehen in den Bergen Geister um, immer auf der Suche nach Seelen, die sie verzehren können.
+
 ## Geschichte der Nation
 
 Die Nation Hexatan wurde in Folge eines jahrzentelangen Feldzugs gegründet, dessen Ablauf nachfolgend zusammengefasst ist.  
